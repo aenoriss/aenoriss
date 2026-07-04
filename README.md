@@ -20,3 +20,4 @@ Plataforma5 (Full-Stack), XRBootcamp (XR, graduated with Honors).
 <!-- curate projects here -->
 
 👾 Vibing to Serial Experiments Lain, .hack//SIGN, Ergo Proxy and Psycho-Pass.
+
