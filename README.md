@@ -15,8 +15,6 @@ MSc. Neuroscience (UBA, ongoing).
 BSc. Product Design (Interactive Media, UdeSA). Magna Cum Laude, Best Thesis Award.
 Plataforma5 (Full-Stack), XRBootcamp (XR, graduated with Honors).
 
-## `<SELECTED_WORK/>`
-
 <!-- curate projects here -->
 
 👾 Vibing to Serial Experiments Lain, .hack//SIGN, Ergo Proxy and Psycho-Pass.
