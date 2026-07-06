@@ -18,7 +18,7 @@ I build immersive XR and AI experiences, from ideas to reality. I own the recons
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="100%">
 <br>
 
 **[taXR](https://github.com/aenoriss/taXR)**
@@ -30,7 +30,9 @@ A CPU classifier for COI DNA barcodes: k-mer vectors in a compressed FAISS index
 <br>
 
 </td>
-<td valign="top" width="33%">
+</tr>
+<tr>
+<td valign="top" width="100%">
 <br>
 
 **[merlin](https://github.com/aenoriss/merlin)**
@@ -42,7 +44,9 @@ A course-scoped RAG assistant that answers only from uploaded documents. Multi-q
 <br>
 
 </td>
-<td valign="top" width="33%">
+</tr>
+<tr>
+<td valign="top" width="100%">
 <br>
 
 **[3DRAG](https://github.com/aenoriss/3DRAG)**
@@ -56,7 +60,7 @@ Cross-modal search over a 3D-model library. Each model is rendered, captioned by
 </td>
 </tr>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="100%">
 <br>
 
 **[alchem.is](https://github.com/aenoriss/alchem.is)**
@@ -68,7 +72,9 @@ Sketch a molecule and predict pIC50 across 985 cancer cell lines. A browser Ketc
 <br>
 
 </td>
-<td valign="top" width="33%">
+</tr>
+<tr>
+<td valign="top" width="100%">
 <br>
 
 **[metatokens](https://github.com/aenoriss/metatokens)**
@@ -80,7 +86,9 @@ A Meta Quest scene of the live Solana market. You reach out and sort tokens by h
 <br>
 
 </td>
-<td valign="top" width="33%">
+</tr>
+<tr>
+<td valign="top" width="100%">
 <br>
 
 **[OncoHotspot](https://github.com/aenoriss/OncoHotspot)**
@@ -97,8 +105,11 @@ A cancer-genomics pipeline: mutation frequencies normalized across 32 TCGA studi
 
 <img src="https://img.shields.io/badge/WORK-7c6ee6?style=for-the-badge&color=7c6ee6" alt="Work" height="26"/>
 
-- **Sr. Software Engineer** · spatial computing. 1y+ building ML/AI pipelines for 3D reconstruction, from image pre-processing to on-device optimization for XR headsets.
-- **Full-Stack & Mobile Engineer** · startups. 6y+ shipping products end to end for early-stage teams.
+**Sr. Software Engineer** · Spatial Computing · `1y+`<br>
+ML/AI pipelines for 3D reconstruction, from image pre-processing to on-device optimization for XR headsets.
+
+**Full-Stack & Mobile Engineer** · Startups · `6y+`<br>
+Shipping products end to end for early-stage teams.
 
 <img src="https://img.shields.io/badge/EDUCATION-0e4fa8?style=for-the-badge&color=0e4fa8" alt="Education" height="26"/>
 
