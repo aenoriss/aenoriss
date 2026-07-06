@@ -18,12 +18,12 @@ I build immersive XR and AI experiences, from ideas to reality. I own the recons
 
 | Project | What it is |
 |---|---|
-| **[taXR](https://github.com/aenoriss/taXR)**<br>`FAISS · k-mer · Python` | Point-and-classify for DNA barcodes. A FAISS index over k-mer vectors, with a bootstrap confidence score you can trust. |
-| **[merlin](https://github.com/aenoriss/merlin)**<br>`RAG · Modal · Next.js` | An AI study assistant that answers only from a course's uploaded documents. Retrieval with TF-IDF key terms and rank fusion. |
-| **[alchem.is](https://github.com/aenoriss/alchem.is)**<br>`React · Ketcher · PubChem` | A chemistry playground with two-way molecular structure editing and live PubChem lookup. |
-| **[3DRAG](https://github.com/aenoriss/3DRAG)**<br>`Florence-2 · FAISS · three.js` | Search a library of 3D models in plain language. Each model is rendered, described, and searched as text. |
-| **[metatokens](https://github.com/aenoriss/metatokens)**<br>`WebXR · shaders · three.js` | Live crypto markets as a swarm of particle tokens you walk around in mixed reality. |
-| **[OncoHotspot](https://github.com/aenoriss/OncoHotspot)**<br>`Python · React · cBioPortal` | A heatmap of where cancer mutations cluster, wired to the FDA-approved therapies that target those genes. |
+| **[taXR](https://github.com/aenoriss/taXR)**<br>`Python · FAISS · k-mer` | A CPU classifier for COI DNA barcodes: k-mer vectors in a compressed FAISS index over MIDORI2, with SINTAX-style bootstrap confidence calibrated at every rank. |
+| **[merlin](https://github.com/aenoriss/merlin)**<br>`RAG · rank-fusion · Modal` | A course-scoped RAG assistant that answers only from uploaded documents. Multi-query retrieval with TF-IDF key terms and reciprocal rank fusion, served on Modal GPUs. |
+| **[3DRAG](https://github.com/aenoriss/3DRAG)**<br>`Florence-2 · embeddings · three.js` | Cross-modal search over a 3D-model library. Each model is rendered, captioned by a vision model, and embedded, so plain-language queries match it as text. |
+| **[alchem.is](https://github.com/aenoriss/alchem.is)**<br>`ML · Ketcher · Modal` | Sketch a molecule and predict pIC50 across 985 cancer cell lines. A browser Ketcher editor and PubChem search over a GDSC-trained model on Modal. |
+| **[metatokens](https://github.com/aenoriss/metatokens)**<br>`WebXR · three.js · Quest` | A Meta Quest scene of the live Solana market — tokens you reach out and sort by hand in mixed reality, height and motion driven by price. |
+| **[OncoHotspot](https://github.com/aenoriss/OncoHotspot)**<br>`Python ETL · D3 · React` | A cancer-genomics pipeline: mutation frequencies normalized across 32 TCGA studies and mapped to the FDA-approved therapies that target each gene. |
 
 <img src="https://img.shields.io/badge/WORK-7c6ee6?style=for-the-badge&color=7c6ee6" alt="Work" height="26"/>
 
