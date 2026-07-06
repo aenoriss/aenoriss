@@ -31,7 +31,7 @@ status · MSc Neuroscience (UBA), in progress
 | **[alchem.is](https://github.com/aenoriss/alchem.is)**<br>`React · Ketcher · PubChem` | A chemistry playground with two-way molecular structure editing and live PubChem lookup. |
 | **[3DRAG](https://github.com/aenoriss/3DRAG)**<br>`Florence-2 · FAISS · three.js` | Search a library of 3D models in plain language. Each model is rendered, described, and searched as text. |
 | **[metatokens](https://github.com/aenoriss/metatokens)**<br>`WebXR · shaders · three.js` | Live crypto markets as a swarm of particle tokens you walk around in mixed reality. |
-| **[Marlowe](https://github.com/aenoriss/Marlowe)**<br>`Unity · Quest 3 · MQTT · ESP32` | A Meta Quest 3 that runs the message broker itself and drives real electronics over your own WiFi. |
+| **[OncoHotspot](https://github.com/aenoriss/OncoHotspot)**<br>`Python · React · cBioPortal` | A heatmap of where cancer mutations cluster, wired to the FDA-approved therapies that target those genes. |
 
 <img src="https://img.shields.io/badge/WORK-7c6ee6?style=for-the-badge&color=7c6ee6" alt="Work" height="26"/>
 
