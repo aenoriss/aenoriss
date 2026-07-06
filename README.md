@@ -18,7 +18,7 @@ I build immersive XR and AI experiences, from ideas to reality. I own the recons
 
 <table>
 <tr>
-<td valign="top" width="100%">
+<td valign="top" width="33%">
 <br>
 
 **[taXR](https://github.com/aenoriss/taXR)**
@@ -30,9 +30,7 @@ A CPU classifier for COI DNA barcodes: k-mer vectors in a compressed FAISS index
 <br>
 
 </td>
-</tr>
-<tr>
-<td valign="top" width="100%">
+<td valign="top" width="33%">
 <br>
 
 **[merlin](https://github.com/aenoriss/merlin)**
@@ -44,9 +42,7 @@ A course-scoped RAG assistant that answers only from uploaded documents. Multi-q
 <br>
 
 </td>
-</tr>
-<tr>
-<td valign="top" width="100%">
+<td valign="top" width="33%">
 <br>
 
 **[3DRAG](https://github.com/aenoriss/3DRAG)**
@@ -60,7 +56,7 @@ Cross-modal search over a 3D-model library. Each model is rendered, captioned by
 </td>
 </tr>
 <tr>
-<td valign="top" width="100%">
+<td valign="top" width="33%">
 <br>
 
 **[alchem.is](https://github.com/aenoriss/alchem.is)**
@@ -72,9 +68,7 @@ Sketch a molecule and predict pIC50 across 985 cancer cell lines. A browser Ketc
 <br>
 
 </td>
-</tr>
-<tr>
-<td valign="top" width="100%">
+<td valign="top" width="33%">
 <br>
 
 **[metatokens](https://github.com/aenoriss/metatokens)**
@@ -86,9 +80,7 @@ A Meta Quest scene of the live Solana market. You reach out and sort tokens by h
 <br>
 
 </td>
-</tr>
-<tr>
-<td valign="top" width="100%">
+<td valign="top" width="33%">
 <br>
 
 **[OncoHotspot](https://github.com/aenoriss/OncoHotspot)**
