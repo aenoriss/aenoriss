@@ -19,6 +19,7 @@ I build immersive XR and AI experiences, from ideas to reality. I own the recons
 <table>
 <tr>
 <td valign="top" width="33%">
+<br>
 
 **[taXR](https://github.com/aenoriss/taXR)**
 
@@ -26,8 +27,11 @@ I build immersive XR and AI experiences, from ideas to reality. I own the recons
 
 A CPU classifier for COI DNA barcodes: k-mer vectors in a compressed FAISS index over MIDORI2, with SINTAX-style bootstrap confidence calibrated at every rank.
 
+<br>
+
 </td>
 <td valign="top" width="33%">
+<br>
 
 **[merlin](https://github.com/aenoriss/merlin)**
 
@@ -35,8 +39,11 @@ A CPU classifier for COI DNA barcodes: k-mer vectors in a compressed FAISS index
 
 A course-scoped RAG assistant that answers only from uploaded documents. Multi-query retrieval with TF-IDF key terms and reciprocal rank fusion, served on Modal GPUs.
 
+<br>
+
 </td>
 <td valign="top" width="33%">
+<br>
 
 **[3DRAG](https://github.com/aenoriss/3DRAG)**
 
@@ -44,10 +51,13 @@ A course-scoped RAG assistant that answers only from uploaded documents. Multi-q
 
 Cross-modal search over a 3D-model library. Each model is rendered, captioned by a vision model, and embedded, so plain-language queries match it as text.
 
+<br>
+
 </td>
 </tr>
 <tr>
 <td valign="top" width="33%">
+<br>
 
 **[alchem.is](https://github.com/aenoriss/alchem.is)**
 
@@ -55,8 +65,11 @@ Cross-modal search over a 3D-model library. Each model is rendered, captioned by
 
 Sketch a molecule and predict pIC50 across 985 cancer cell lines. A browser Ketcher editor and PubChem search over a GDSC-trained model on Modal.
 
+<br>
+
 </td>
 <td valign="top" width="33%">
+<br>
 
 **[metatokens](https://github.com/aenoriss/metatokens)**
 
@@ -64,14 +77,19 @@ Sketch a molecule and predict pIC50 across 985 cancer cell lines. A browser Ketc
 
 A Meta Quest scene of the live Solana market. You reach out and sort tokens by hand in mixed reality, height and motion driven by price.
 
+<br>
+
 </td>
 <td valign="top" width="33%">
+<br>
 
 **[OncoHotspot](https://github.com/aenoriss/OncoHotspot)**
 
 `Python ETL · D3 · React`
 
 A cancer-genomics pipeline: mutation frequencies normalized across 32 TCGA studies and mapped to the FDA-approved therapies that target each gene.
+
+<br>
 
 </td>
 </tr>
