@@ -10,14 +10,6 @@
 
 I build immersive XR and AI experiences, from ideas to reality. I own the reconstruction pipeline end to end, from image pre-processing through model training to on-device optimization for XR headsets. I am especially into brain-computer interfaces and Human-Human-Computer Interaction, which is why I am doing an MSc in Neuroscience at UBA, to build a deeper foundation in how the brain actually works.
 
-```text
-> whoami
-Joaquín Quiroga · @aenoris · Buenos Aires, Argentina
-Sr. Software Engineer · 1y+ ML/AI for spatial computing · 6y+ full-stack & mobile for startups
-focus  · brain-computer interfaces, Human-Human-Computer Interaction
-status · MSc Neuroscience (UBA), in progress
-```
-
 [![Portfolio](https://img.shields.io/badge/aenoris.xyz-e8629a?style=flat-square&logo=safari&logoColor=white)](https://aenoris.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e4fa8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaqu%C3%ADn-quiroga-20731b96/)
 ![Location](https://img.shields.io/badge/Buenos_Aires-0a5a2b?style=flat-square&logo=googlemaps&logoColor=white)
