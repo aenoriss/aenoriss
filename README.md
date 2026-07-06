@@ -88,7 +88,9 @@ A cancer-genomics pipeline: mutation frequencies normalized across 32 TCGA studi
 - **BSc Product Design, Interactive Media** · UdeSA, Magna Cum Laude, Best Thesis Award.
 - **Plataforma5** (full-stack) · **XRBootcamp** (XR, graduated with honors).
 
-<img src="https://img.shields.io/badge/EXTENDED%20REALITY-e8629a?style=for-the-badge&color=e8629a" alt="EXTENDED REALITY" height="26"/>
+<img src="https://img.shields.io/badge/SKILLS-0a5a2b?style=for-the-badge&color=0a5a2b" alt="Skills" height="26"/>
+
+**Extended Reality**
 
 ![Unity 6](https://img.shields.io/badge/Unity%206-12110f?style=flat-square&logo=unity&logoColor=white)
 ![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-12110f?style=flat-square&logo=unrealengine&logoColor=white)
@@ -103,7 +105,7 @@ A cancer-genomics pipeline: mutation frequencies normalized across 32 TCGA studi
 ![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-12110f?style=flat-square&logo=react&logoColor=white)
 ![8th Wall](https://img.shields.io/badge/8th%20Wall-12110f?style=flat-square)
 
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-7c6ee6?style=for-the-badge&color=7c6ee6" alt="MACHINE LEARNING" height="26"/>
+**Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-12110f?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-12110f?style=flat-square&logo=numpy&logoColor=white)
@@ -127,9 +129,9 @@ A cancer-genomics pipeline: mutation frequencies normalized across 32 TCGA studi
 ![HunyuanVideo](https://img.shields.io/badge/HunyuanVideo-12110f?style=flat-square)
 ![Hunyuan3D 3.0](https://img.shields.io/badge/Hunyuan3D%203.0-12110f?style=flat-square)
 
-<img src="https://img.shields.io/badge/FULLSTACK%20DEVELOPMENT-0e4fa8?style=for-the-badge&color=0e4fa8" alt="FULLSTACK DEVELOPMENT" height="26"/>
+**Fullstack Development**
 
-**Frontend**
+*Frontend*
 
 ![React](https://img.shields.io/badge/React-12110f?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-12110f?style=flat-square&logo=typescript&logoColor=white)
@@ -143,7 +145,7 @@ A cancer-genomics pipeline: mutation frequencies normalized across 32 TCGA studi
 ![Apollo](https://img.shields.io/badge/Apollo-12110f?style=flat-square&logo=apollographql&logoColor=white)
 ![Three.js / R3F](https://img.shields.io/badge/Three.js%20%2F%20R3F-12110f?style=flat-square&logo=threedotjs&logoColor=white)
 
-**Backend**
+*Backend*
 
 ![Node.js](https://img.shields.io/badge/Node.js-12110f?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-12110f?style=flat-square&logo=express&logoColor=white)
