@@ -105,9 +105,9 @@ Shipping products end to end for early-stage teams.
 
 <img src="https://img.shields.io/badge/EDUCATION-0e4fa8?style=for-the-badge&color=0e4fa8" alt="Education" height="26"/>
 
-- **MSc Neuroscience** · UBA, ongoing. Building toward practical brain-computer interfaces.
-- **BSc Product Design, Human-Computer Interaction** · UdeSA, Magna Cum Laude, Best Thesis Award.
-- **Plataforma5** (full-stack) · **XRBootcamp** (XR, graduated with honors).
+**MSc Neuroscience** · UBA, ongoing. Building toward practical brain-computer interfaces.<br>
+**BSc Product Design, Human-Computer Interaction** · UdeSA, Magna Cum Laude, Best Thesis Award.<br>
+**Plataforma5** (full-stack) · **XRBootcamp** (XR, graduated with honors).
 
 <img src="https://img.shields.io/badge/SKILLS-0a5a2b?style=for-the-badge&color=0a5a2b" alt="Skills" height="26"/>
 
