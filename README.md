@@ -109,6 +109,7 @@ A cancer-genomics pipeline: mutation frequencies normalized across 32 TCGA studi
 
 ![Python](https://img.shields.io/badge/Python-12110f?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-12110f?style=flat-square&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-12110f?style=flat-square&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-12110f?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-12110f?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-12110f?style=flat-square&logo=docker&logoColor=white)
