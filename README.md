@@ -27,11 +27,11 @@ status · MSc Neuroscience (UBA), in progress
 | Project | What it is |
 |---|---|
 | **[taXR](https://github.com/aenoriss/taXR)**<br>`FAISS · k-mer · Python` | Point-and-classify for DNA barcodes. A FAISS index over k-mer vectors, with a bootstrap confidence score you can trust. |
-| **[Marlowe](https://github.com/aenoriss/Marlowe)**<br>`Unity · Quest 3 · MQTT · ESP32` | A Meta Quest 3 that runs the message broker itself and drives real electronics over your own WiFi. |
-| **[merlin](https://github.com/aenoriss/merlin)**<br>`RAG · Modal · Next.js` | An AI study assistant that only knows your course's documents. Retrieval with TF-IDF key terms and rank fusion. |
+| **[merlin](https://github.com/aenoriss/merlin)**<br>`RAG · Modal · Next.js` | An AI study assistant that answers only from a course's uploaded documents. Retrieval with TF-IDF key terms and rank fusion. |
+| **[alchem.is](https://github.com/aenoriss/alchem.is)**<br>`React · Ketcher · PubChem` | A chemistry playground with two-way molecular structure editing and live PubChem lookup. |
+| **[3DRAG](https://github.com/aenoriss/3DRAG)**<br>`Florence-2 · FAISS · three.js` | Search a library of 3D models in plain language. Each model is rendered, described, and searched as text. |
 | **[metatokens](https://github.com/aenoriss/metatokens)**<br>`WebXR · shaders · three.js` | Live crypto markets as a swarm of particle tokens you walk around in mixed reality. |
-| **[kai](https://github.com/aenoriss/kai-tasks)**<br>`OpenAI Realtime · WebSocket` | Talk to your to-do list. A voice-first task manager over the OpenAI Realtime API. |
-| **[Dloot](https://github.com/aenoriss/dloot_final)**<br>`AR · blockchain · AES-GCM` | Scan a code, collect the loot. Encrypted, on-chain claims from a printed marker. |
+| **[Marlowe](https://github.com/aenoriss/Marlowe)**<br>`Unity · Quest 3 · MQTT · ESP32` | A Meta Quest 3 that runs the message broker itself and drives real electronics over your own WiFi. |
 
 <img src="https://img.shields.io/badge/WORK-7c6ee6?style=for-the-badge&color=7c6ee6" alt="Work" height="26"/>
 
