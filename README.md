@@ -8,7 +8,7 @@
 
 `Spatial Computing Engineer` · AI/ML pipelines for 3D reconstruction · XR · brain-computer interfaces
 
-I build immersive XR and AI experiences, from ideas to reality. I own the reconstruction pipeline end to end, from image pre-processing through model training to on-device optimization for XR headsets. I am especially into brain-computer interfaces and Human-Human-Computer Interaction, which is why I am doing an MSc in Neuroscience at UBA, to build a deeper foundation in how the brain actually works.
+I build immersive XR and AI experiences, from ideas to reality. I specialize in 3D reconstruction, turning images of a real place into a model you can walk through in a headset. I own that reconstruction pipeline end to end, from image pre-processing through model training to on-device optimization for XR headsets. I am especially into brain-computer interfaces and Human-Human-Computer Interaction, which is why I am doing an MSc in Neuroscience at UBA, to build a deeper foundation in how the brain actually works.
 
 [![Portfolio](https://img.shields.io/badge/aenoris.xyz-e8629a?style=flat-square&logo=safari&logoColor=white)](https://aenoris.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e4fa8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaqu%C3%ADn-quiroga-20731b96/)
